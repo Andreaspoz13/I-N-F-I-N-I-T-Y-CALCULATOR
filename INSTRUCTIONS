@@ -1,0 +1,7 @@
+INSTRUCTIONS -->
+To Open the Program Install Visual Studio Code .NET SDK And Runtime.
+And After that create a folder and put those things in.Then open Visual studio Code and open the folder you created.
+Now click on the "Program.cs" file in Visual Studio Code AND FINALLY Go to the toolbar in the bottom of the window, Select Run--> Start Debugging.
+From now you should get the program on your Screen
+Also make sure to install the official C# Extension From Visual Studio Code's Extension Store before Running the Program 
+                                      NOW ENJOY THE I N F I N I T Y CALCULATOR !!!
