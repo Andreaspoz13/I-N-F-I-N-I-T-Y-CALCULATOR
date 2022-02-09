@@ -1,0 +1,16 @@
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.AssemblyInfo.cs
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.exe
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.deps.json
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.runtimeconfig.json
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.runtimeconfig.dev.json
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.dll
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\ref\infinity counter.dll
+C:\Users\User\Desktop\infinity counter\bin\Debug\net5.0\infinity counter.pdb
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.dll
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\ref\infinity counter.dll
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.pdb
+C:\Users\User\Desktop\infinity counter\obj\Debug\net5.0\infinity counter.genruntimeconfig.cache
